@@ -1,5 +1,5 @@
 def greet():
-    pass
+    print("Hello")
 
 def farewell():
-    pass
+    print("Goodbye")
